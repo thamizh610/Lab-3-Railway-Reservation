@@ -1,5 +1,7 @@
 # Lab-3-Railway-Reservation
-
+# Date : 26/03/2025
+# Name : Thamizarasan S
+# REG NO : 212223220116
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -19,6 +21,33 @@ of the online bus ticket system is to provide another way for transnational cust
 their tickets.
 ### UML DIAGRAMS:
 
+Usecase diagrams:
+
+![image](https://github.com/user-attachments/assets/3a6f0baf-ef16-4910-abd6-d3cb876321ec)
+
+Class diagram:
+
+![image](https://github.com/user-attachments/assets/6ad98a81-806e-40f7-9614-f2b3356b712f)
+
+Communication diagram
+
+![image](https://github.com/user-attachments/assets/79604d9f-752b-43ec-b8cd-e55c8a6514ce)
+
+Package diagram
+
+![image](https://github.com/user-attachments/assets/44d61d6e-4836-44bb-877e-b72138a97f14)
+
+Activity Diagram
+
+![image](https://github.com/user-attachments/assets/a4f06496-575e-4451-9549-dab2f2721276)
+
+State Chart Diagram
+
+![image](https://github.com/user-attachments/assets/1149a3c3-6f1e-43ac-8ae5-bf70f5dbf980)
+
+Sequence Diagram
+
+![image](https://github.com/user-attachments/assets/969edc5f-2419-4a89-813b-bdeeffd175f2)
 
 
 ### RESULT:
